@@ -1,0 +1,23 @@
+# Flutter/Dart
+.dart_tool/
+.packages
+.pub/
+build/
+
+# Android
+android/.gradle/
+android/local.properties
+android/key.properties
+android/**/GeneratedPluginRegistrant.java
+
+# iOS
+ios/Pods/
+ios/.symlinks/
+ios/Flutter/ephemeral/
+
+# VS Code
+.vscode/
+
+# Firebase
+android/app/google-services.json
+ios/Runner/GoogleService-Info.plist
